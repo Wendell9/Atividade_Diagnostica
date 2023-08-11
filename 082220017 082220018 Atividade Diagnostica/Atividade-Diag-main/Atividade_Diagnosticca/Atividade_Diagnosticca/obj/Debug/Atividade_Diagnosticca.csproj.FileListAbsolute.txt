@@ -1,0 +1,8 @@
+C:\Users\082220017\Downloads\Atividade-Diag-main\Atividade-Diag-main\Atividade_Diagnosticca\Atividade_Diagnosticca\bin\Debug\Atividade_Diagnosticca.exe.config
+C:\Users\082220017\Downloads\Atividade-Diag-main\Atividade-Diag-main\Atividade_Diagnosticca\Atividade_Diagnosticca\bin\Debug\Atividade_Diagnosticca.exe
+C:\Users\082220017\Downloads\Atividade-Diag-main\Atividade-Diag-main\Atividade_Diagnosticca\Atividade_Diagnosticca\bin\Debug\Atividade_Diagnosticca.pdb
+C:\Users\082220017\Downloads\Atividade-Diag-main\Atividade-Diag-main\Atividade_Diagnosticca\Atividade_Diagnosticca\obj\Debug\Atividade_Diagnosticca.csproj.AssemblyReference.cache
+C:\Users\082220017\Downloads\Atividade-Diag-main\Atividade-Diag-main\Atividade_Diagnosticca\Atividade_Diagnosticca\obj\Debug\Atividade_Diagnosticca.csproj.SuggestedBindingRedirects.cache
+C:\Users\082220017\Downloads\Atividade-Diag-main\Atividade-Diag-main\Atividade_Diagnosticca\Atividade_Diagnosticca\obj\Debug\Atividade_Diagnosticca.csproj.CoreCompileInputs.cache
+C:\Users\082220017\Downloads\Atividade-Diag-main\Atividade-Diag-main\Atividade_Diagnosticca\Atividade_Diagnosticca\obj\Debug\Atividade_Diagnosticca.exe
+C:\Users\082220017\Downloads\Atividade-Diag-main\Atividade-Diag-main\Atividade_Diagnosticca\Atividade_Diagnosticca\obj\Debug\Atividade_Diagnosticca.pdb
